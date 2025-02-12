@@ -16,3 +16,8 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.custom-link {
+    color: unset !important;         /* Removes color */
+    text-decoration: none !important; /* Removes underline */
+}
